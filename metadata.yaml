@@ -1,0 +1,27 @@
+_repo: The-Fat-of-the-LandThe-Story-of-an-American-Farm_16525
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Streeter, John Williams
+    birthdate: 1841
+    deathdate: 1905
+    gutenberg_agent_id: '6768'
+    url: http://www.gutenberg.org/2009/agents/6768
+description: ''
+gutenberg_issued: '2005-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16525'
+  lccn: 04004097
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture'
+- !lcc 'S'
+title: 'The Fat of the Land: The Story of an American Farm'
+url: http://www.gutenberg.org/ebooks/16525
